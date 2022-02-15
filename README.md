@@ -1,2 +1,2 @@
-# trilha-de-estudos-dio
-Repositório para projetos feitos durante estudos na Digital Innovarion One.
+# Repositório de Estudos (DIO)
+Neste repositório serão adicionados projetos referentes a estudos feitos na Digital Innovation One.
